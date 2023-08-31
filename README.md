@@ -1,1 +1,4 @@
-useful scripts and function with descriptions
+## Python functions
+
+## Bash scripts 
+
